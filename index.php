@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Verificação de Voto</title>
+    <title>Exercício de operadores lógicos</title>
 </head>
 <body>
     <h1>Verificação de Voto</h1>
